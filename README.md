@@ -1,4 +1,3 @@
-Tentu, saya bisa memberikan contoh template Readme yang menarik untuk proyek seperti itu:
 
 ---
 
@@ -71,6 +70,4 @@ Diprogram oleh Muhammad Farel Fahlevi ©2023
 
 ---
 
-[Optional: Tambahkan bagian lain seperti informasi kontak, panduan kontribusi, dll.]
 
----
